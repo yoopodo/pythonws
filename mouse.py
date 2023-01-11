@@ -1,1 +1,1 @@
-print("Mouse")
+print("Mouse and cat")
